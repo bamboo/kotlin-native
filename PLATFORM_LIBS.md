@@ -64,6 +64,7 @@ should be installed on the machine.
   ## Examples
 
 `Kotlin/Native` installation provides a wide spectrum of examples
-demonstrating the use of platform libraries.
+demonstrating the use of platform libraries. 
+See [samples](https://github.com/JetBrains/kotlin-native/tree/master/samples) for details.
 
 
