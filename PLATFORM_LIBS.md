@@ -18,7 +18,7 @@ To use the library just
 
 The only target for which it is not available is [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly).
 
-Note that the contents of `platform.posix` is NOT identical on
+Note that the content of `platform.posix` is NOT identical on
 different platforms, in the same way as different `POSIX` implementations
 are a little different.
 
